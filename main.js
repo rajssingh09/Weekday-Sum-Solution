@@ -35,4 +35,4 @@ function solution(D) {
     return result;
 }
 
-module.exports = solution; // ✅ Export the function
+module.exports = solution; 
