@@ -1,4 +1,4 @@
-const solution = require("./main"); // or './solution' if your file is named solution.js
+const solution = require("./main"); 
 
 test("Test 1", () => {
     const test1 = {
