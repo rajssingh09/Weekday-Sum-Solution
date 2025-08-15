@@ -1,0 +1,12 @@
+{
+  "name": "weekday-sum-solution",
+  "version": "1.0.0",
+  "description": "Weekday sum solution with jest tests",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
